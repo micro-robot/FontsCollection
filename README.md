@@ -3,7 +3,9 @@ The custom fonts collection.
 
 #Usage
 
-1 Add
+1. Drag the `*.ttf` file to project.
+
+2. Add
 
 ```objectivec
 	<key>UIAppFonts</key>
@@ -35,7 +37,7 @@ The custom fonts collection.
 ```
 to `Info.plist`.
 
-2 Set the `UILabel` font.
+3. Set the `UILabel` font.
 
 ```objectivec
 [textLabel setFont:[UIFont fontWithName:@"Cambria-Bold" size:15.f]];
