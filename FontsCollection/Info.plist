@@ -22,29 +22,84 @@
 	<true/>
 	<key>UIAppFonts</key>
 	<array>
-        <string>Calibri Regular.ttf</string>
-        <string>Calibri Bold.ttf</string>
-        <string>Calibri Italic.ttf</string>
-        <string>Calibri Bold Italic.ttf</string>
+        <string>angsa.ttf</string>
+        <string>angsab.ttf</string>
+        <string>angsai.ttf</string>
+        <string>angsaz.ttf</string>
+        <string>ANTQUABI.ttf</string>
+        <string>ANTQUAI.ttf</string>
+        <string>arial.ttf</string>
+        <string>arialbd.ttf</string>
+        <string>arialbi.ttf</string>
+        <string>ariali.ttf</string>
+        <string>ARIALN.ttf</string>
+        <string>ARIALNB.ttf</string>
+        <string>ariblk.ttf</string>
+        <string>BKANT.ttf</string>
+        <string>BOOKOS.ttf</string>
+        <string>BOOKOSB.ttf</string>
+        <string>BOOKOSBI.ttf</string>
+        <string>BOOKOSI.ttf</string>
+        <string>CalibriBold.ttf</string>
+        <string>CalibriBoldItalic.ttf</string>
+        <string>CalibriItalic.ttf</string>
         <string>calibril.ttf</string>
         <string>calibrili.ttf</string>
+        <string>CalibriRegular.ttf</string>
+        <string>CALIST.ttf</string>
+        <string>CALISTB.ttf</string>
+        <string>CALISTBI.ttf</string>
+        <string>CALISTI.ttf</string>
         <string>cambria.ttc</string>
         <string>Cambriab.ttf</string>
         <string>Cambriai.ttf</string>
         <string>Cambriaz.ttf</string>
-        <string>CENTURY.ttf</string>
+        <string>CENTURY.TTF</string>
+        <string>Consola.ttf</string>
+        <string>Consolab.ttf</string>
+        <string>Consolai.ttf</string>
+        <string>Consolaz.ttf</string>
+        <string>Constan.ttf</string>
+        <string>Constanb.ttf</string>
+        <string>Constani.ttf</string>
+        <string>Constanz.ttf</string>
         <string>Corbel.ttf</string>
+        <string>Corbelb.ttf</string>
+        <string>Corbeli.ttf</string>
+        <string>Corbelz.ttf</string>
+        <string>cordia.ttf</string>
+        <string>FranklinGothicBook.ttf</string>
+        <string>FranklinGothicMedium.ttf</string>
+        <string>GARA.ttf</string>
+        <string>GARABD.ttf</string>
+        <string>GARAIT.ttf</string>
+        <string>GillSansMT.ttf</string>
+        <string>GOTHIC.ttf</string>
+        <string>GOTHICB.ttf</string>
+        <string>GOTHICBI.ttf</string>
+        <string>GOTHICI.ttf</string>
         <string>himalaya.ttf</string>
+        <string>MalgunGothic.ttf</string>
+        <string>Meiryo.ttf</string>
         <string>monbaiti.ttf</string>
-        <string>MS Mincho.ttf</string>
+        <string>MSGothic.ttf</string>
+        <string>MSMincho.ttf</string>
+        <string>MSPGothic.ttf</string>
         <string>msyi.ttf</string>
         <string>MTEXTRA.ttf</string>
+        <string>PERTIBD.ttf</string>
+        <string>PERTILI.ttf</string>
+        <string>PMingLiU.ttf</string>
+        <string>SimSun.ttf</string>
         <string>symbol.ttf</string>
         <string>tahoma.ttf</string>
+        <string>tahomabd.ttf</string>
+        <string>TwCenMT.ttf</string>
+        <string>TwCenMTCondensed.ttf</string>
         <string>webdings.ttf</string>
         <string>Wingdings.ttf</string>
-        <string>Wingdings 2.ttf</string>
-        <string>Wingdings 3.ttf</string>
+        <string>Wingdings2.ttf</string>
+        <string>Wingdings3.ttf</string>
     </array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
